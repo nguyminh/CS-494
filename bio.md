@@ -7,3 +7,6 @@ I hope that this class will equip me with the knowledge that I need to be able t
 
 
 ---Programming background---
+
+My favorite project in cs 161 was the very last one, where we had to implement eerything we've learned into one program.
+(end first commit of programming branch)
