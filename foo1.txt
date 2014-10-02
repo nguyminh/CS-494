@@ -1,1 +1,1 @@
-A line to conflict with something later
+2nd line to conflict the first
