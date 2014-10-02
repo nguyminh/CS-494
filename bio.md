@@ -15,3 +15,7 @@ My favorite project in cs 161 was the very last one, where we had to implement e
 
 Other than this CS program, I've never had any real work on programming besides a little bit of HTML here and there. Which really doesn't even count because I don't remember much of it at all. 
 (end 2nd commit of programming branch)
+
+-----------------------------
+
+(Added more content) My favorite color is blue, I have dark hair, I'm about 5'10, and I love watching basketball. 
