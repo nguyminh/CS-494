@@ -1,1 +1,3 @@
-conflict conflict!
+first conflicting line
+second conflicting line 
+Everyone is happy after fixing the merges
