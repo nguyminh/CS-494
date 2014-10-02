@@ -6,4 +6,6 @@ My hobbies include and are not limited to biking, playing music (guitar & bass),
 I hope that this class will equip me with the knowledge that I need to be able to become a better computer scientist. 
 
 
+And right here, I'm just adding more info for my master branch that is going to be merged with the programming branch. Hopefully this works.
+
 ---Programming background---
