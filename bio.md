@@ -18,4 +18,4 @@ Other than this CS program, I've never had any real work on programming besides 
 
 -----------------------------
 
-(Added more content) My favorite color is blue, I have dark hair, I'm about 5'10, and I love watching basketball. 
+(Deleted contents) Here I've deleted the content about how I like basketball and what color hair I have. For the commit that belongs to the rewriting-the-future branch.
