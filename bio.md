@@ -10,3 +10,6 @@ I hope that this class will equip me with the knowledge that I need to be able t
 
 My favorite project in cs 161 was the very last one, where we had to implement eerything we've learned into one program.
 (end first commit of programming branch)
+
+Other than this CS program, I've never had any real work on programming besides a little bit of HTML here and there. Which really doesn't even count because I don't remember much of it at all. 
+(end 2nd commit of programming branch)
