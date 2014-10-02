@@ -4,3 +4,6 @@ My previous bachelor's degree was in Biology, and I'm intending on joining the f
 My hobbies include and are not limited to biking, playing music (guitar & bass), writing code (not a joke), video games, hikes, and traveling.  
 
 I hope that this class will equip me with the knowledge that I need to be able to become a better computer scientist. 
+
+
+---Programming background---
